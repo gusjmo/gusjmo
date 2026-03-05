@@ -35,9 +35,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em São Paulo, com
 ## Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusjmo&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Gustavo's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusjmo&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=gusjmo&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusjmo&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 ---
