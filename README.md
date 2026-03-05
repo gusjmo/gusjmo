@@ -1,4 +1,4 @@
-# Olá, sou o Gustavo Juvencio! 
+# Olá, sou o Gustavo Juvencio!
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em São Paulo, com foco em **QA**, desenvolvimento web e automação. Atualmente buscando minha primeira oportunidade na área de TI.
 
@@ -34,7 +34,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em São Paulo, com
 
 ## Estatísticas GitHub
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusjmo&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gusjmo&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Gustavo's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusjmo&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</div>
 
 ---
 
