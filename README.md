@@ -15,8 +15,8 @@
 ## 🙋 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta (conclusão: jun/2026)
-- 🔍 Foco em **Quality Assurance**, testes de software e automação
-- 🌱 Atualmente aprendendo: **Python**, **Django**, **Pytest** e boas práticas de QA
+- 🔍 Foco em **Quality Assurance**, testes de software e automação de APIs
+- 🌱 Atualmente aprendendo: **Python**, **Django**, **Pytest**, **Pandas** e análise de dados
 - 💼 Buscando minha primeira oportunidade na área de TI
 - 📍 São Paulo, SP — Brasil
 
@@ -30,16 +30,25 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Testes & QA:**
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Ferramentas:**
+**Dados & Análise:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Ferramentas & DevOps:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -49,7 +58,10 @@
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| **impacta** | Sistema web de agendamentos e CRM para barbearia | HTML, CSS, Python | [Ver repositório](https://github.com/gusjmo/impacta) |
+| **qa-ecommerce-api-tests** | Suite de testes automatizados de API REST simulando fluxo real de e-commerce com CI/CD | Python, Pytest, Requests, GitHub Actions | [Ver repositório](https://github.com/gusjmo/qa-ecommerce-api-tests) |
+| **python-portfolio-analysis** | Análise de portfólios financeiros com métricas de risco, coleta via API (BCB/CVM) e regressão Rolling Beta | Python, Pandas, Statsmodels, Matplotlib | [Ver repositório](https://github.com/gusjmo/python-portfolio-analysis) |
+| **studio-go-interiores** | Landing page para estúdio de design de interiores focado em investidores e Airbnb | HTML, CSS, JavaScript | [Ver repositório](https://github.com/gusjmo/studio-go-interiores) |
+| **impacta** | Sistema web de agendamentos e CRM para barbearia — projeto acadêmico ADS | HTML, CSS, Python | [Ver repositório](https://github.com/gusjmo/impacta) |
 | **qa-calculadora** | Testes automatizados de calculadora com Pytest | Python, Pytest | [Ver repositório](https://github.com/gusjmo/qa-calculadora) |
 | **organizador-arquivos-python** | Script para organizar arquivos da pasta Downloads automaticamente | Python | [Ver repositório](https://github.com/gusjmo/organizador-arquivos-python) |
 
@@ -69,8 +81,10 @@
 
 - ✅ Python para automação e testes
 - ✅ Pytest e boas práticas de QA
-- 🔄 Django (desenvolvimento web)
-- 🔄 SQL e banco de dados
+- ✅ Testes de API REST (Requests + GitHub Actions)
+- ✅ Análise de dados com Pandas e Statsmodels
+- 🔄 Django (desenvolvimento web back-end)
+- 🔄 SQL e banco de dados relacional
 - 🔄 Lógica de programação (LeetCode / CodeWars)
 
 ---
