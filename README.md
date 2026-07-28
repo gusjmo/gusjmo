@@ -19,7 +19,7 @@
 - 💻 Desenvolvedor web frontend — HTML, CSS, JavaScript e React, com +10 projetos práticos no portfólio
 - 🏢 Fundador da **[AZ1 Agência Digital](https://www.az1agenciadigital.com.br/)** — presença digital para pequenos negócios
 - 🌱 Atualmente aprendendo: **Python**, **Django**, **Pytest**, **Pandas** e análise de dados
-- 💼 Buscando minha primeira oportunidade CLT/PJ na área de TI
+- 💼 Buscando vagas na área de TI
 - 📍 São Paulo, SP — Brasil
 
 ---
