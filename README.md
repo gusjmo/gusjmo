@@ -16,10 +16,10 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Impacta (certificado previsto para out/2026)
 - 🔍 Foco em **QA (Qualidade de Software)**, testes de software e automação de APIs
-- 💻 Desenvolvedor web frontend — HTML, CSS, JavaScript e React
+- 💻 Desenvolvedor web frontend — HTML, CSS, JavaScript e React, com +10 projetos práticos no portfólio
 - 🏢 Fundador da **[AZ1 Agência Digital](https://www.az1agenciadigital.com.br/)** — presença digital para pequenos negócios
 - 🌱 Atualmente aprendendo: **Python**, **Django**, **Pytest**, **Pandas** e análise de dados
-- 💼 Buscando minha primeira oportunidade na área de TI
+- 💼 Buscando minha primeira oportunidade CLT/PJ na área de TI
 - 📍 São Paulo, SP — Brasil
 
 ---
