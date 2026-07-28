@@ -15,7 +15,7 @@
 ## 🙋 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Impacta (certificado previsto para out/2026)
-- 🔍 Foco em **Quality Assurance**, testes de software e automação de APIs
+- 🔍 Foco em **QA (Qualidade de Software)**, testes de software e automação de APIs
 - 💻 Desenvolvedor web frontend — HTML, CSS, JavaScript e React
 - 🏢 Fundador da **[AZ1 Agência Digital](https://az1-landing-page.vercel.app)** — presença digital para pequenos negócios
 - 🌱 Atualmente aprendendo: **Python**, **Django**, **Pytest**, **Pandas** e análise de dados
@@ -76,9 +76,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gusjmo&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusjmo&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=gusjmo&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusjmo&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=gusjmo&layout=compact&theme=dark&hide_border=true)
 
 ---
 
